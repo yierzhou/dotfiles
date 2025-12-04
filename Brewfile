@@ -1,3 +1,5 @@
+# Clone of cat(1) with syntax highlighting and Git integration
+brew "bat"
 # Modern, maintained replacement for ls
 brew "eza"
 # Command-line fuzzy finder written in Go
